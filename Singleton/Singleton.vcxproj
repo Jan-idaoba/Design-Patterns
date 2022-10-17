@@ -128,11 +128,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HungryMan.cpp" />
     <ClCompile Include="LazyMan.cpp" />
+    <ClCompile Include="LazyManNew.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="HungryMan.h" />
     <ClInclude Include="LazyMan.h" />
+    <ClInclude Include="LazyManNew.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

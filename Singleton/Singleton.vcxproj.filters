@@ -21,9 +21,21 @@
     <ClCompile Include="LazyMan.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LazyManNew.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HungryMan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LazyMan.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LazyManNew.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HungryMan.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
